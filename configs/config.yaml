@@ -1,0 +1,6 @@
+path: ../data/images
+train: ./train
+val: ./val
+
+names:
+    0: face
